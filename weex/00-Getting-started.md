@@ -3,9 +3,12 @@
 
 ## Setup development environment
 
-
+1. Install ``weex-toolkit``:
+```
+npm install weex-toolkit -g
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzkxMDM2MF19
+eyJoaXN0b3J5IjpbLTEzOTQ0MTIxNl19
 -->
