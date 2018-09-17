@@ -17,8 +17,9 @@ Finally add your target platforms:
 ```
 weex platform add android
 ```
+If necessary add the ``android/platform-tools`` direto
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU1MDYxMl19
+eyJoaXN0b3J5IjpbLTE3MTcyMzEzMThdfQ==
 -->
