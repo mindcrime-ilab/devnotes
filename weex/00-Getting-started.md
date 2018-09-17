@@ -11,9 +11,10 @@ Create a new app in a new directory:
 ```
 weex create awesome-app
 ```
+The app bootstrap process will guide you to a set of questions on how to setup your development environment.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDI2MzQ2Ml19
+eyJoaXN0b3J5IjpbMTYxMzQ0Njg0Ml19
 -->
