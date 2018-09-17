@@ -17,9 +17,9 @@ Finally add your target platforms:
 ```
 weex platform add android
 ```
-If necessary add the ``android/platform-tools`` direto
+If necessary add the ``android/platform-tools`` directory to the ``PATH`` variable to make ``adb`` tool accessible.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTcyMzEzMThdfQ==
+eyJoaXN0b3J5IjpbMTEwMTY1ODUzMV19
 -->
