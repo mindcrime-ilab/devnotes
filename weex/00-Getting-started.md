@@ -13,8 +13,12 @@ weex create awesome-app
 ```
 The app bootstrap process will guide you to a set of questions on how to setup your development environment.
 
+Finally add your target platforms:
+```
+weex platform add android
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzQ0Njg0Ml19
+eyJoaXN0b3J5IjpbLTIwMTU1MDYxMl19
 -->
