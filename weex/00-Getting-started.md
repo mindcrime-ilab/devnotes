@@ -18,8 +18,12 @@ Finally add your target platforms:
 weex platform add android
 ```
 If necessary add the ``android/platform-tools`` directory to the ``PATH`` variable to make ``adb`` tool accessible.
+Start the android emulator before running 
+```
+weex run android
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTY1ODUzMV19
+eyJoaXN0b3J5IjpbLTE2Mzg1NzczOTksMTEwMTY1ODUzMV19
 -->
