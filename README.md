@@ -1,7 +1,7 @@
 # devnotes
 
- - [weex](weex/00-Getting-started.md)
+ - [weex](weex/000-toc.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY3NTU5NzRdfQ==
+eyJoaXN0b3J5IjpbLTE3Njg3OTIyOTZdfQ==
 -->
