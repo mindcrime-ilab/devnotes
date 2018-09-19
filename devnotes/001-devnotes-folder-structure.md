@@ -1,8 +1,11 @@
 # Devnotes folder structure
-rev.
+| -
+| **Date** | 19.09.2018 |
+| **Revision** | 1 |
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjA1ODUwN119
+eyJoaXN0b3J5IjpbMjA0Njg3NDgzNV19
 -->
