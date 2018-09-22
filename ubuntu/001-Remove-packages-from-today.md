@@ -1,12 +1,13 @@
 
 # How to remove packages installed today
-The following command lists all packages installed today:
+The following command lists all packages installed today and save to a file:
 
 ```bash
-grep -e `date +%Y-%m-%d` /var/log/dpkg.log | awk '/install / {print $4}' | uniq
+grep -e `date +%Y-%m-%d` /var/log/dpkg.log | awk '/install / {print $4}' | uniq > todays_packages.lst
 ```
+Afterwards the package list can be audited and feed into the ``apt`` 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjYxNzc1NV19
+eyJoaXN0b3J5IjpbLTYwNDQ5NjIwMF19
 -->
