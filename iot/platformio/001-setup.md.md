@@ -43,8 +43,8 @@ Add the user to ``dialout`` group:
 ```bash
 sudo adduser me dialout
 ```
-Finally rel
+Finally re-login to enable all changes or open a login shell.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjYxODIyMDEsLTQwMzY1OTQ2MF19
+eyJoaXN0b3J5IjpbLTIwMzIxNjkxMzgsLTQwMzY1OTQ2MF19
 -->
