@@ -39,8 +39,12 @@ Checking for the permissions of ``/dev/ttyUSB0``:
 crw-rw---- 1 root dialout 188, 0 Okt  1 19:32 /dev/ttyUSB0
 ```
 
-
+Add the user to ``dialout`` group:
+```bash
+sudo adduser me dialout
+```
+Finally rel
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzk2ODEyMSwtNDAzNjU5NDYwXX0=
+eyJoaXN0b3J5IjpbLTE0MjYxODIyMDEsLTQwMzY1OTQ2MF19
 -->
