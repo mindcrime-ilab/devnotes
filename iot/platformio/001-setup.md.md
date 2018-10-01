@@ -11,9 +11,10 @@ Follow the instructions provided on [https://docs.platformio.org/en/latest/insta
 
 ## Activate PlatformIO Core
 
-`` `bash
+```bash
+source ~/Kode/virtualenv/pio/bin/activate
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1NzA5MDY1XX0=
+eyJoaXN0b3J5IjpbLTQwMzY1OTQ2MF19
 -->
